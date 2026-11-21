@@ -1,0 +1,96 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="9XlaR5_fW0aah6dYNZDv">
+    <mxGraphModel dx="1414" dy="743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-1" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Order Management System" vertex="1">
+          <mxGeometry height="80" width="80" x="90" y="275" as="geometry" />
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-2" parent="1" style="whiteSpace=wrap;html=1;aspect=fixed;" value="Admin Application" vertex="1">
+          <mxGeometry height="80" width="80" x="670" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-3" parent="1" style="shape=ellipse;html=1;dashed=0;whiteSpace=wrap;perimeter=ellipsePerimeter;" value="0&lt;div&gt;Inventory Management System&lt;/div&gt;" vertex="1">
+          <mxGeometry height="90" width="90" x="360" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-5" edge="1" parent="1" source="tvlUVVduRi8pNXU1dnyZ-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.244;entryY=0.933;entryDx=0;entryDy=0;entryPerimeter=0;" target="tvlUVVduRi8pNXU1dnyZ-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-12" connectable="0" parent="tvlUVVduRi8pNXU1dnyZ-5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Order Data" vertex="1">
+          <mxGeometry relative="1" x="-0.2829" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-6" edge="1" parent="1" source="tvlUVVduRi8pNXU1dnyZ-3" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=1;entryY=0;entryDx=0;entryDy=0;exitX=0.267;exitY=0.056;exitDx=0;exitDy=0;exitPerimeter=0;" target="tvlUVVduRi8pNXU1dnyZ-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="340" y="280" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-13" connectable="0" parent="tvlUVVduRi8pNXU1dnyZ-6" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Product Information" vertex="1">
+          <mxGeometry relative="1" x="0.1403" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-7" edge="1" parent="1" source="tvlUVVduRi8pNXU1dnyZ-2" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.767;entryY=0.1;entryDx=0;entryDy=0;entryPerimeter=0;" target="tvlUVVduRi8pNXU1dnyZ-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-14" connectable="0" parent="tvlUVVduRi8pNXU1dnyZ-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Order Data" vertex="1">
+          <mxGeometry relative="1" x="0.0458" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-8" edge="1" parent="1" source="tvlUVVduRi8pNXU1dnyZ-3" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=0;entryY=1;entryDx=0;entryDy=0;exitX=0.678;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" target="tvlUVVduRi8pNXU1dnyZ-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-15" connectable="0" parent="tvlUVVduRi8pNXU1dnyZ-8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Inventory Data" vertex="1">
+          <mxGeometry relative="1" x="-0.0121" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-18" edge="1" parent="1" source="tvlUVVduRi8pNXU1dnyZ-2" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1.011;entryY=0.333;entryDx=0;entryDy=0;entryPerimeter=0;" target="tvlUVVduRi8pNXU1dnyZ-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-19" connectable="0" parent="tvlUVVduRi8pNXU1dnyZ-18" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Inventory Stock Update" vertex="1">
+          <mxGeometry relative="1" x="-0.1964" y="-4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-20" edge="1" parent="1" source="tvlUVVduRi8pNXU1dnyZ-1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.067;entryY=0.711;entryDx=0;entryDy=0;entryPerimeter=0;" target="tvlUVVduRi8pNXU1dnyZ-3" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-21" connectable="0" parent="tvlUVVduRi8pNXU1dnyZ-20" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="&lt;div&gt;Product Information Request&lt;/div&gt;" vertex="1">
+          <mxGeometry relative="1" x="-0.3266" y="1" as="geometry">
+            <mxPoint x="16" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-23" edge="1" parent="1" source="tvlUVVduRi8pNXU1dnyZ-3" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.056;exitY=0.267;exitDx=0;exitDy=0;exitPerimeter=0;" target="tvlUVVduRi8pNXU1dnyZ-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="400" y="390" as="sourcePoint" />
+            <mxPoint x="450" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tvlUVVduRi8pNXU1dnyZ-24" connectable="0" parent="tvlUVVduRi8pNXU1dnyZ-23" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];inheritText=1;defaultLabelBackgroundColor=page;" value="Inventory Data" vertex="1">
+          <mxGeometry relative="1" x="0.2822" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
